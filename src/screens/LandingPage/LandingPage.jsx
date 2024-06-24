@@ -408,7 +408,7 @@ export const LandingPage = () => {
         <NavbarGuest
           landingpagedivClassName="!text-primary-2 !tracking-[0] !text-[16px] ![font-style:unset] !font-bold ![font-family:'Nunito',Helvetica] !leading-[22.4px]"
           className="!fixed !left-0 !top-0"
-          logoPlaceholderGroup="../../../static/img/group-7-3.png"
+          logoPlaceholderGroup="/../../../static/img/group-7-3.png"
           landingpageClassName="!underline !text-primary-2 !tracking-[0] !text-[16px] ![font-style:unset] !font-bold ![font-family:'Nunito',Helvetica] !leading-[22.4px]"
         />
       </div>
